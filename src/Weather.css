@@ -1,0 +1,14 @@
+.Weather {
+  border: 1px solid #dadde1;
+}
+
+ul {
+  list-style-type: none;
+}
+
+footer {
+  font-size: 10px;
+}
+.footer-link {
+  font-weight: bold;
+}
