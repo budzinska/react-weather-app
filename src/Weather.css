@@ -52,3 +52,7 @@
   line-height: 1;
   top: -22px;
 }
+
+.float-left {
+  float: left;
+}
