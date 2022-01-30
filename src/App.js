@@ -5,22 +5,22 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defauldCity="Amsterdam" />
+        <Weather defaultCity="Amsterdam" />
         <footer>
           This project was coded by Anna Budzińska and it is{" "}
           <a
             href="https://github.com/budzinska/react-weather-app"
             target="_blank"
-            rel="noreferrer"
+            rel="noreferrer noopener"
             className="footer-link"
           >
             open-sourced on GitHub
           </a>{" "}
-          and{" "}
+          and hosted on{" "}
           <a
-            href="https://github.com/budzinska/react-weather-app"
+            href="https://modest-hugle-380951.netlify.app/"
             target="_blank"
-            rel="noreferrer"
+            rel="noreferrer noopener"
             className="footer-link"
           >
             Netlify
